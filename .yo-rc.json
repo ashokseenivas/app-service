@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "bbxCustomeronboarding",
+    "packageName": "com.biz.channel.onboarding",
+    "packageFolder": "com/biz/channel/onboarding",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "OWUzM2I2ZDY5OTM3ZjFkODE5ZGZjZDFhZjJkY2E2YTRjNmNjZjk1Zjg2ZGI4ZTY1YjE5Njc1ZTM0NGFjODk1OGQ2M2Q5MTkxNjU2OGY5ZWI4ODAwYWM5ODQxY2Q2ZjUzNjQ0MzlhNjcxNjk1ZThmN2ZjZTYwODMyNmU4Mzk0MTg=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "balaji-ranga",
+  "repository-name": "bbx-customer-onboarding"
+}
